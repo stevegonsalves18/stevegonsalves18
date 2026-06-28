@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on<br>- Production-ready Full Stack & AI applications<br>- Multi-Agent AI systems using MCP, RAG, and LLMs<br>- Backend development with FastAPI, PostgreSQL, and Docker<br><br>🤝 I’m looking to collaborate on<br>- Open Source Projects<br>- Full Stack Web Applications<br>- AI/LLM & Agentic AI Projects<br><br>💡 I’m looking for help with<br>- Distributed Systems<br>- Cloud Architecture (AWS)<br>- Kubernetes<br>- System Design<br><br>🌱 I’m currently learning<br>- System Design<br>- Kubernetes<br>- AWS<br>- MCP (Model Context Protocol)<br>- Advanced RAG Architectures<br><br>💬
+## 👨‍💻 About Me<br><br>🔭 I’m currently working on<br>- Production-ready Full Stack & AI applications<br>- Multi-Agent AI systems using MCP, RAG, and LLMs<br>- Backend development with FastAPI, PostgreSQL, and Docker<br><br>🤝 I’m looking to collaborate on<br>- Open Source Projects<br>- Full Stack Web Applications<br>- AI/LLM & Agentic AI Projects<br><br>💡 
 
 
 ## 🌐 Socials:
